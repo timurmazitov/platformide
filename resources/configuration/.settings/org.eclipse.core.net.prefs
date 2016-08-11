@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+nonProxiedHosts=localhost|127.0.0.1|ftc.ru|cft.ru
+org.eclipse.core.net.hasMigrated=true
+proxiesEnabled=true
+proxyData/HTTP/hasAuth=true
+proxyData/HTTP/host=proxy.ftc.ru
+proxyData/HTTP/port=3128
+proxyData/HTTPS/hasAuth=true
+proxyData/HTTPS/host=proxy.ftc.ru
+proxyData/HTTPS/port=3128
+systemProxiesEnabled=true

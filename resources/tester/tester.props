@@ -1,0 +1,6 @@
+ru.cft.platform.builder.prefs/builder.threads=2
+ru.cft.platform.ide.mm.loader/loadmodel=false
+ru.cft.platform.builder/runbuild=false
+ru.cft.platform.ide.ui.sourcemanager/runsynchronizer=false
+ru.cft.platform.locker/runlockingjob=false
+ru.cft.platform.ide.ui.sourcemanager/deploy=false
